@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+    font-family: 'Courier New', Courier, monospace;
+    width: 800px;
+}
+
+h1{
+    font-size: xx-large;
+    text-align: center;
+}
+
+h2 {
+    background-color: lightcoral;
+}
