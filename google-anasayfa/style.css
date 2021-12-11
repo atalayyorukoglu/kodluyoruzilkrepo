@@ -1,0 +1,27 @@
+* {
+    text-align: center;
+}
+
+.conteiner {
+    width: 800px;
+    margin: auto;
+}
+
+.logo {
+    object-fit: contain;
+    object-position: center bottom;
+    width: auto;
+}
+
+.art-cl {
+    background-color: lightgrey;
+    padding: 20px;
+}
+
+.card {
+    width: 33%;
+    float: left;
+    /* padding: 5%; */
+    /* margin-right: 3%; */
+    background-color: rgb(171, 211, 160);
+  }
