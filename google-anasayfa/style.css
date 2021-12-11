@@ -3,7 +3,7 @@
 }
 
 .conteiner {
-    width: 800px;
+    width: auto;
     margin: auto;
 }
 
@@ -20,8 +20,14 @@
 
 .card {
     width: 33%;
+    height: 150px;
     float: left;
     /* padding: 5%; */
     /* margin-right: 3%; */
     background-color: rgb(171, 211, 160);
   }
+
+.card ul li {
+    /* color: red; */
+    list-style: none;
+}
